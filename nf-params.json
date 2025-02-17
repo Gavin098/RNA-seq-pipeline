@@ -1,0 +1,11 @@
+{
+    "input": "/ceph/ganjunwei/data_YX/0.rawdata/1.parameter_1012/input_YX1012.csv",
+    "fasta": "\/ceph\/public\/moso_genome_V3\/clr\/genome.fasta",
+    "gff": "\/ceph/ganjunwei\/rnaseq\/0.rawdata\/1.nf-core_clr\/clr_v253.GeneModels.gff",
+    "aligner": "star_rsem",
+    "compare": "/ceph/ganjunwei/data_YX/0.rawdata/1.parameter_1012/compare.csv",
+    "GO_anno": "/ceph/public/data_test_pipeline_/annotation_clr/go_gene.txt",
+    "GO_description": "/ceph/public/data_test_pipeline_/annotation_clr/go_description.txt",
+    "KEGG_anno": "/ceph/public/data_test_pipeline_/annotation_clr/kegg_gene.txt",
+    "KEGG_description": "/ceph/public/data_test_pipeline_/annotation_clr/kegg_description.txt",
+}
